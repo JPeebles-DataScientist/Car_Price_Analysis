@@ -30,4 +30,4 @@ We uncovered several critical insights about the used car market, notably how th
 - James Peebles
 
 ## Detailed Analysis
-Explore the detailed analysis in our Jupyter notebook: [Notebook](#)
+Explore the detailed analysis in our Jupyter notebook: [Car Price Analysis](https://github.com/JPeebles-DataScientist/Car_Price_Analysis/blob/main/JPeebles__prompt_II.ipynb)
