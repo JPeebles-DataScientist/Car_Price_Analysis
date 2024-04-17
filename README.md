@@ -24,7 +24,7 @@ We uncovered several critical insights about the used car market, notably how th
 
 ## How to Navigate This Repository
 - **Analysis Notebook**: For a detailed exploration of the data analysis and modeling, see the Jupyter notebook linked below.
-- **Data Directory**: Access the cleaned and processed dataset used in the analysis [data](#).
+- **Data Directory**: Access the cleaned and processed dataset used in the analysis [data](https://github.com/JPeebles-DataScientist/Car_Price_Analysis/blob/main/practical_application_II_starter.zip).
 
 ## Contributors
 - James Peebles
